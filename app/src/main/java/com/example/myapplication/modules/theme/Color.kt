@@ -1,0 +1,67 @@
+package com.example.myapplication.modules.theme
+
+import androidx.compose.ui.graphics.Color
+
+val Purple80 = Color(0xFFD0BCFF)
+val PurpleGrey80 = Color(0xFFCCC2DC)
+val Pink80 = Color(0xFFEFB8C8)
+
+val Purple40 = Color(0xFF6650a4)
+val PurpleGrey40 = Color(0xFF625b71)
+val Pink40 = Color(0xFF7D5260)
+
+val VeryDarkGray = Color(0xFF101010)
+
+val LimeGreen = Color(0xFF49D231)
+val LightLimeGreen = Color(0xFF91F176)
+val LightBlue = Color(0xFF6A92FD)
+val DarkNavyBlue = Color(0xFF01056F)
+val BrightOrange = Color(0xFFFE7D10)
+val BrightYellow = Color(0xFFEFF91C)
+val BrightRed = Color(0xFFFC101C)
+val OffWhite = Color(0xFFF3F3F8)
+
+val MintGreen = Color(0xFFA5F2C0)
+val PaleMint = Color(0xFFE7F3F3)
+val SoftLavender = Color(0xFFDAD0FE)
+val LightOlive = Color(0xFFD8D8A2)
+val Cream = Color(0xFFF5EBDE)
+val PastelYellow = Color(0xFFFEF179)
+val SoftPink = Color(0xFFF0D0CC)
+val LightGreen = Color(0xFFD4E5B9)
+
+val PastelGreen = Color(0xFFBAF79C)
+val LightPastelGreen = Color(0xFFD6FCAC)
+val SkyBlue = Color(0xFF96ADF9)
+val DarkBlue = Color(0xFF01006F)
+val SageGreen = Color(0xFF7FBC89)
+val DarkBrown = Color(0xFF7B4120)
+val BurntOrange = Color(0xFFFB6F23)
+val PaleGray = Color(0xFFF1F2F9)
+
+val ForestGreen = Color(0xFF36AB20)
+val BrightGreen = Color(0xFF80D211)
+val RoyalBlue = Color(0xFF4269F9)
+val DeepBlue = Color(0xFF002772)
+val BrickRed = Color(0xFFDE6320)
+val LemonYellow = Color(0xFFFAF222)
+val SalmonPink = Color(0xFFFB6F63)
+val LightGray = Color(0xFFB2B2B2)
+
+val OliveGreen = Color(0xFF617B2A)
+val FreshGreen = Color(0xFF91D128)
+val DeepRoyalBlue = Color(0xFF2438F9)
+val MidnightBlue = Color(0xFF000672)
+val CopperBrown = Color(0xFF96590D)
+val GoldYellow = Color(0xFFD8D67D)
+val CrimsonRed = Color(0xFFA83F3E)
+val CharcoalGray = Color(0xFF282828)
+
+val ArmyGreen = Color(0xFF7E8B1F)
+val YellowGreen = Color(0xFF91AD45)
+val Purple = Color(0xFF420872)
+val Indigo = Color(0xFF382878)
+val ChestnutBrown = Color(0xFF844527)
+val MustardYellow = Color(0xFF8C8B38)
+val DarkCrimson = Color(0xFF903020)
+val DarkGray = Color(0xFF757575)

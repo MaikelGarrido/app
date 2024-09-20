@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.AnimatedSplash" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.AnimatedSplash.MySplash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#FF101010</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/mass_app_animation</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item>
+        <item name="postSplashScreenTheme">@style/Theme.AnimatedSplash</item>
+    </style>
+
+</resources>
